@@ -42,15 +42,15 @@ The goal of this project is to learn how to:
 
 ## Project list
 
-* [Install Splunk Enterprise as the SIEM server](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/configure-universal-forwarder-linux-windows-clients.md)
+* [Install Splunk Enterprise as the SIEM server](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/install-splunk-enterprise-siem-server.md)
 
-* Configure Universal Forwarder on Linux and Windows clients
+* [Configure Universal Forwarder on Linux and Windows clients](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/configure-universal-forwarder-linux-windows-clients.md)
 
-* Forward logs from both systems to the Splunk server
+* [Forward logs from both systems to the Splunk server](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/forward-logs-windows-linux-to-splunk-server.md)
 
-* Verify log collection by generating and searching test logs
+* [Verify log collection by generating and searching test logs](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/verify-log-collection-test-splunk.md)
 
-* Build the foundation for centralized log monitoring
+* [Build the foundation for centralized log monitoring](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/foundation-centralized-log-monitoring.md)
 
 ---
 
