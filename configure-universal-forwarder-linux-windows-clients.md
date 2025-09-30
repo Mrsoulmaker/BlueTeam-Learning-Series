@@ -82,3 +82,5 @@ sudo ./splunk restart
 ## Conclusion
 
 By installing and configuring the Splunk Universal Forwarder on Windows and Linux clients, we enable centralized log forwarding to the SIEM server. This ensures all critical system events are collected in one place, making it easier to detect threats and monitor system health.
+
+This step is crucial for building a reliable and scalable security monitoring setup.
