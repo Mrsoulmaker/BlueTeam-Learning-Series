@@ -74,3 +74,6 @@ This project provides a hands-on introduction to **SIEM and log management** usi
 
 This project is a beginner-friendly lab to build foundational knowledge in **blue team operations** and **log-based security monitoring**.
 
+
+🎯 Grateful for the opportunity to learn and experiment — every log tells a story! 💻📊🔍
+
