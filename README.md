@@ -40,6 +40,20 @@ The goal of this project is to learn how to:
 
 ---
 
+## Project list
+
+* Install Splunk Enterprise as the SIEM server
+
+* Configure Universal Forwarder on Linux and Windows clients
+
+* Forward logs from both systems to the Splunk server
+
+* Verify log collection by generating and searching test logs
+
+* Build the foundation for centralized log monitoring
+
+---
+
 ## **Key Features**
 
 - **Centralized Log Collection:** Collects logs from multiple machines (Linux and Windows) into one Splunk server.
@@ -52,7 +66,11 @@ The goal of this project is to learn how to:
 
 --- 
 
+## Conclusion
 
+This project provides a hands-on introduction to **SIEM and log management** using Splunk. By forwarding logs from Linux and Windows clients to a central Splunk server, you learn how to monitor, analyze, and understand system activity in real-time. This foundational lab builds essential skills for **blue team operations** and prepares you for more advanced cybersecurity monitoring and incident response tasks.
+
+---
 
 This project is a beginner-friendly lab to build foundational knowledge in **blue team operations** and **log-based security monitoring**.
 
