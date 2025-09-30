@@ -73,7 +73,7 @@ wget -O splunk.deb 'https://download.splunk.com/products/splunk/releases/x.x.x/l
 ```
 sudo dpkg -i splunk.deb 
 ```
-6. go to splunk bin directory 
+6. Navigate to splunk bin directory 
 ```
 cd /opt/splunk/bin
 ```
