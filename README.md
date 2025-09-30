@@ -8,9 +8,12 @@ This project demonstrates the basics of collecting and analyzing system logs fro
 
 ## What is a SIEM?
 What is a SIEM? (Simple!)
+
 Think of a SIEM as a big mailbox for many computers.
-Each computer (Windows or Linux) writes little notes (logs) about what it’s doing.
-The SIEM collects all those notes, shows them in one place, and helps you find anything strange.
+
+*Each computer (Windows or Linux) writes little notes (logs) about what it’s doing.
+*The SIEM collects all those notes, shows them in one place, and helps you find anything strange.
+
 Two important parts:
 1. Indexer / SIEM server — the big mailbox (where everything is stored and searched).
 2. Forwarder (agent) — a little postman you install on each computer so it sends its notes to the mailbox.
