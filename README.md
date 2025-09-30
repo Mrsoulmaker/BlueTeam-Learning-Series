@@ -42,7 +42,7 @@ The goal of this project is to learn how to:
 
 ## Project list
 
-* Install Splunk Enterprise as the SIEM server
+* [Install Splunk Enterprise as the SIEM server](https://github.com/Mrsoulmaker/BlueTeam-Learning-Series/blob/main/configure-universal-forwarder-linux-windows-clients.md)
 
 * Configure Universal Forwarder on Linux and Windows clients
 
